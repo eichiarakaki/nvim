@@ -20,7 +20,7 @@ set.fileencoding = 'utf-8'
 set.termguicolors = true
 
 set.relativenumber = true
-set.cursorline = true
+set.cursorline = false
 
 set.hidden = true
 
